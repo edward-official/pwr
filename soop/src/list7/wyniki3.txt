@@ -1,0 +1,5 @@
+Task 3
+Less than the number: 8
+Greater than the number: 12
+Equal to the number: 0
+Numbers equal to their difference: []

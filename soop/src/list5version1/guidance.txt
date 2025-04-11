@@ -1,0 +1,29 @@
+Task 1: Simple Window
+Goal: Create a window with the title "Welcome to GUI!"
+
+Task 2: Button with Action
+Goal: Add a button that prints a message to the console when clicked.
+
+Task 3: Text Field
+Goal: Create a text field and a button. When the button is clicked, the text in the field should be printed to the console.
+
+Task 4: Click Counter
+Goal: Create a window with a button. Each click on the button increments a counter displayed in the window.
+
+Task 5: Simple Calculator
+Goal: Create two text fields and a button that calculates the sum of the numbers entered in the fields, displaying the result in a label.
+
+Task 6: Background Color Change
+Goal: Create three buttons to change the background color of a panel to red, green, or blue.
+
+Task 7: Dropdown List
+Goal: Create a dropdown list with color names. Selecting a color changes the background color of the panel.
+
+Task 8: Login Form
+Goal: Create a login form with fields for username and password, and a button to "Login." If the username is "admin" and the password is "1234," display a success message; otherwise, display an error message.
+
+Task 9: To-Do List
+Goal: Create a simple to-do list application where users can add tasks using a text field and remove completed tasks using a "Remove" button.
+
+Task 10: Timer Application
+Goal: Create an application with a start/stop button and a label to display a running timer in seconds.

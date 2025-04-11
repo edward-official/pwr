@@ -1,0 +1,5 @@
+Based on the examples discussed in the lecture,
+try to develop a game in which clicking on a target made up of 10 multicolored circles will count points.
+The equation of a circle might be useful to determine which part of the circular target was hit.
+Later, you can modify the game by changing the position of the target
+(either with continuous movement or by jumping to a new position at regular intervals).
